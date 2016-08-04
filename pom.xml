@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>cn.academybukkit</groupId>
 	<artifactId>AcademyBukkit</artifactId>
-	<version>0.0.${env.BUILD_NUMBER}</version>
+	<version>1.0.0</version>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
