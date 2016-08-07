@@ -1,5 +1,5 @@
 name: AcademyBukkit
 description: Provide Bukkit support to AcademyCraft
 version: 1.0.0
-depend: [Residence]
+depend: [PlotMe, Residence]
 main: cn.academybukkit.AcademyBukkit
