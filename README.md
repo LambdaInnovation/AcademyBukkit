@@ -1,21 +1,17 @@
 AcademyBukkit
 =============
-A Bukkit plugin that allows [AcademyCraft][ac] to support some other Bukkit plugins
+A Bukkit plugin allowing [AcademyCraft][ac] to support some Bukkit plugins
 
-Dependencies
------------------
+Runtime Dependencies
+--------------------
 + Required:
-	* AcademyCraft
+    * AcademyCraft
 + Supporting:
-	* Residence
+    * PlotMe
+    * Residence
 
-Build
-------
-Dependencies:
-+ [Bukkit][bukkit]
-+ [Residence][res]
+Building Dependencies
+---------------------
++ Bukkit
 
 [ac]:  https://github.com/LambdaInnovation/AcademyCraft
-[bukkit]: http://tcpr.ca/files/bukkit/bukkit-1.7.10-R0.1-20140808.005150-4.jar
-[res]:http://dev.bukkit.org/media/files/722/685/Residence.jar
-
